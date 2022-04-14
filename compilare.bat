@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_301\bin\javac.exe" Triunghi.java > erori.txt 2>&1
